@@ -1,0 +1,15 @@
+[
+    {
+        "name":"Login",
+        "link":"login.html"
+    },
+    {
+        "name":"Register",
+        "link":"register.html"
+    },
+    {
+        "name":"Forgot Password",
+        "link":"forgot-password.html"
+    }
+
+]
